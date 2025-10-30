@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-ingress-traefik:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-31T06:00:53.155367672+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 25c65db821b05e88d3030a83cce495c3759e0366a3291be42904c733c8611c51
+    name: go-ingress-traefik
+    type: application
+    urls:
+    - go-ingress-traefik-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-31T06:00:53.155144455+07:00"
